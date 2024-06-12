@@ -2,7 +2,7 @@
 
 ### Hi! Here is TexasOct
 
-[![aecom233@gmail.com](https://img.shields.io/static/v1?label=aecom233@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:aecom233@gmail.com)
+[![mail@texasoct.tech](https://img.shields.io/static/v1?label=mail@texasoct.tech&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:mail@texasoct.tech)
 
 A Computer Science Student.
 

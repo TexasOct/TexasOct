@@ -6,7 +6,7 @@
 
 A Computer Science Student.
 
-Interested in Hypervisor & Cloud Native ☁️
+Interested in Type II Hypervisor & Cloud Native ☁️
 
 Most time work in [Self-Host Gitlab](https://git.texasoct.tech) 🦊
 

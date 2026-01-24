@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TexasOct&hide_border=true&show_icons=true&theme=transparent" />
-
 ### Hi! Here is TexasOct
 
 [![mail@texasoct.tech](https://img.shields.io/static/v1?label=mail@texasoct.tech&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:mail@texasoct.tech)

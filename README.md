@@ -4,8 +4,6 @@
 
 Interested in Type II Hypervisor, Cloud Native ☁️, Rust Language 🦀 & AI Agent Development
 
-Most time work in [Self-Host Gitlab](https://git.texasoct.tech) 🦊
-
 <details>
   <summary>PGP Public Key</summary>
     

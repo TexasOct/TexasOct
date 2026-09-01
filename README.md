@@ -2,7 +2,7 @@
 
 [![mail@texasoct.tech](https://img.shields.io/static/v1?label=mail@texasoct.tech&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:mail@texasoct.tech)
 
-Interested in Type II Hypervisor & Cloud Native ☁️
+Interested in Type II Hypervisor, Cloud Native ☁️, Rust Language 🦀 & AI Agent Development
 
 Most time work in [Self-Host Gitlab](https://git.texasoct.tech) 🦊
 
